@@ -5,4 +5,4 @@ Symulacja skrzyżowania.
 h1. Autorzy
 
 * Stanisław Wasiutyński <staszek.wasiutynski@gmail.com>
-* Adrian Szwed <adriahn24@gmail.com>
+* Adrian Szwed < adriahn24@gmail.com >
